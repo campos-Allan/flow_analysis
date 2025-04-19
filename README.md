@@ -1,6 +1,6 @@
 # FLOW ANALYSIS
 
-Quick analysis of the Flow Studios podcasts to assess engagement, and an attempt to create a Random Forests or Neural Networks model to predict engagement data based on certain attributes. More explanations in this video: https://youtu.be/2rNdSB4OaTE
+Quick analysis of the Flow Studios podcasts to assess engagement, and an attempt to create a Random Forests or Neural Networks model to predict engagement data based on certain attributes.
 
 The .csv files are the data I fetched from the YouTube API in the previous project. Here, you will only find the charts with a brief explanation; the analysis was done in the YouTube video.
 
